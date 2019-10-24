@@ -1,7 +1,7 @@
 # MindSphere Getting Started
 
 This repository contains a sample Typescript application which simulates and sends data to MindSphere.
-It was created as part of [one of my posts on the mimacom blog](https://blog.mimacom.com/getting-started-with-mindsphere/) which is not published yet.
+It was created as part of [one of my posts on the mimacom blog](https://blog.mimacom.com/getting-started-with-mindsphere/).
 
 This repository makes use of the [MindConnect-NodeJS project](https://github.com/mindsphere/mindconnect-nodejs).
 Running it requires:
